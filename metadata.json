@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RuangPro - Interactive Learning Platform",
+  "description": "A high-end educational platform featuring interactive lessons, AI-powered practice questions, and full-scale tryouts using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
